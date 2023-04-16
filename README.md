@@ -4,5 +4,5 @@ The repository consists of Powerpoint presentation, Tableau visualisation and th
 |     Name        |      Reg no.    |      Github     |                           Webpage Link                      |                   Overleaf Link                  |
 | :---: | :---: | :---: |:---: | :---: |
 |  Simrah Rafiqi  | RA2011003010348 |      12simu     | [Link](https://12simu.github.io/18CSE301J_RA2011003010348/) |[Link](https://www.overleaf.com/read/ythvhqwpmwbh)|
-| :---: | :---: | :---: |:---: | :---: |
-|  Poorvi Mittal  | RA2011003010361 |  probably-poorvi| [Link]( https://probably-poorvi.github.io/18CSE301J_RA2011003010361/)|[Link](https://www.overleaf.com/read/rhmkchwgwrpj|
+
+|  Poorvi Mittal  | RA2011003010361 |  probably-poorvi| [Link]( https://probably-poorvi.github.io/18CSE301J_RA2011003010361/)|[Link](https://www.overleaf.com/read/rhmkchwgwrpj)|
